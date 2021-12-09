@@ -25,7 +25,6 @@ public class Peripheral {
     private String reference;
     private String brand;
     private String category;
-    private String objetivo;
     private String description;
     private double price;
     private boolean availability = true;
